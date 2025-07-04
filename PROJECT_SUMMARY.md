@@ -93,6 +93,7 @@ adna-portfolio/
 │   └── projects/               # MDX project files
 ├── .env.local                  # Environment variables
 ├── .env.example                # Environment template
+├── next.config.js              # Next.js configuration
 ├── vercel.json                 # Deployment config
 ├── README.md                   # Project documentation
 ├── DEPLOYMENT.md               # Deployment guide

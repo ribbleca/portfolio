@@ -89,6 +89,7 @@ content/
 └── projects/             # MDX project files
     ├── proyek-satu.mdx
     └── proyek-dua.mdx
+next.config.js             # Next.js configuration
 ```
 
 ## 📝 Adding New Projects
